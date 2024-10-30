@@ -1,0 +1,8 @@
+= 1.0.2 =
+Fixed: nextGEN HTML in description did not import
+
+= 1.0.1 =
+Fixed: Sanitizations ( https://github.com/WPChill/modula-nextgen-migrator/issues/1 )
+
+= 1.0.0 =
+First Release ! Yay !
